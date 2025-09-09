@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.gif" height="220" alt="banner" />
+  <img src="./assets/header.gif" width='100%' alt="banner" />
 </div>
 
 ---
@@ -81,7 +81,7 @@
 
 ## 🌐 Connect With Me  
 
-<div align="center">
+<div align="center" style="display:flex; justify-content:center; gap:10px">
   <a href="https://www.linkedin.com/in/pawankumar9aa/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
   <a href="https://x.com/KumaarPawan9"><img src="https://skillicons.dev/icons?i=twitter" width="48" /></a>
 
