@@ -1,89 +1,99 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/nsxvyCsN/github-header-banner.png"  />
+  <img src="./assets/header.gif" height="220" alt="banner" />
 </div>
 
-###
+---
 
-<p align="left"></p>
+<h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
 
-###
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;MERN+Stack+Engineer;Cloud+%26+DevOps+Learner;Lifelong+Tech+Explorer" alt="Typing Animation" />
+</h3>
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 🧑‍💻 About Me  
 
-<h3 align="center">FullStack Developer | Bachelor of Technology | Computer Science & Engineering  GLA University, Mathura</h3>
+💡 Passionate about building **scalable full-stack applications** with modern web technologies.  
+🎓 Currently pursuing **B.Tech CSE at GLA University, Mathura**.  
+🌱 Exploring **Cloud, Artificial Intelligence, and Machine Learning**.  
+⚡ Fun fact: I write better code at 2 AM than at 2 PM. 😅  
+📫 Reach me at: **pawankumar9aa@gmail.com**
 
-###
+---
 
-<p align="left"></p>
+## 🌍 Portfolio  
+<div align="center">
+  <a href="https://pawankumar.surge.sh" target="_blank">
+    <img src="https://img.shields.io/badge/-🌐%20Visit%20My%20Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
 
-###
+---
+
+## 🛠 Tech Arsenal  
 
 <div align="center">
-  <img height="92" src="https://i.ibb.co/8gPZbb3K/portfoliobtn.jpg"  />
+
+### 🚀 Core Tech
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Nodejs](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### 🎨 Frontend
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+### ⚙️ Other Languages
+![Python](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c)
+![Java](https://skillicons.dev/icons?i=java)
+
+### 🛠 Tools & Platforms
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
+![npm](https://skillicons.dev/icons?i=npm)
+
 </div>
 
-###
+---
 
-<h2 align="left">Tech Stack</h2>
-
-###
+## 📊 GitHub Analytics  
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="40" alt="npm logo"  />
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pawankumar1099&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawankumar1099&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawankumar1099&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+
 </div>
 
-###
+---
 
-<p align="left"></p>
-
-###
-
-<h2 align="left">Socials</h2>
-
-###
+## 🌐 Connect With Me  
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/pawankumar9aa/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
+  <a href="https://x.com/KumaarPawan9"><img src="https://skillicons.dev/icons?i=twitter" width="48" /></a>
+
+  <a href="mailto:pawankumar9aa@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
 </div>
 
-###
+---
 
-<p align="left"></p>
+## 🎮 Fun Section  
 
-###
+<div align="center">
 
-<p align="left"></p>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawankumar1099/pawankumar1099/output/pacman-contribution-graph-dark.svg">
@@ -91,4 +101,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pawankumar1099/pawankumar1099/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+</div>
+
+---
+
+✨ _Thanks for stopping by! If you liked my profile, don’t forget to ⭐ my repos._ ✨
