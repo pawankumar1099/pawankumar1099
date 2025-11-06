@@ -17,7 +17,6 @@
 💡 Passionate about building **scalable full-stack applications** with modern web technologies.  
 🎓 Currently pursuing **B.Tech CSE at GLA University, Mathura**.  
 🌱 Exploring **Cloud, Artificial Intelligence, and Machine Learning**.  
-⚡ Fun fact: I write better code at 2 AM than at 2 PM. 😅  
 📫 Reach me at: **pawankumar9aa@gmail.com**
 
 ---
@@ -84,7 +83,6 @@
 <div align="center" style="display:flex; justify-content:center; gap:10px">
   <a href="https://www.linkedin.com/in/pawankumar9aa/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
   <a href="https://x.com/KumaarPawan9"><img src="https://skillicons.dev/icons?i=twitter" width="48" /></a>
-
   <a href="mailto:pawankumar9aa@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
 </div>
 
